@@ -12,8 +12,8 @@ public class CreateMonster : MonoBehaviour
 
   private float _createTime = 0;
 
-  private List<GameObject> _gameObjects = new List<GameObject>();
-  
+  public List<GameObject> MonsterList { get; } = new List<GameObject>();
+
   public static CreateMonster Instance { get; set; }
 
   private void Awake()
@@ -27,7 +27,7 @@ public class CreateMonster : MonoBehaviour
     if (_createTime > 2)
     {
       _createTime = 0;
-      _gameObjects.Add(Instantiate(monsterPerfab, position, new Quaternion(0, 180, 0, 1)));
+      MonsterList.Add(Instantiate(monsterPerfab, position, new Quaternion(0, 180, 0, 1)));
     }
   }
 }

@@ -1,16 +1,18 @@
-using System.Collections;
+﻿
 using System.Collections.Generic;
 using UnityEngine;
 
-
 /*
- * 计算距离检测目标
+ * 依靠物理射线检测目标
  */
-public class DetectTargetByDistance : MonoBehaviour
+public class DetectTargetByPhysics : MonoBehaviour
 {
-    
-    /**/
+    /*检测范围*/
     public int range = 2;
+
+    [Header("检测图层")]
+    [SerializeField]
+    public LayerMask layerMask;
 
     /*检测到的对象*/
     private List<GameObject> detect ;
@@ -18,16 +20,13 @@ public class DetectTargetByDistance : MonoBehaviour
     void Update()
     {
         detect = new List<GameObject>();
-        var monsterList = CreateMonster.Instance.MonsterList;
-        foreach (var monster in monsterList)
+        var objColliders = Physics2D.OverlapCircleAll(transform.position,range,layerMask);
+        foreach (var monster in objColliders)
         {
-            if (Vector2.Distance(gameObject.transform.position,monster.transform.position)< range)
-            {
-                detect.Add(monster);
-            }
+                detect.Add(monster.gameObject);
         }
     }
-
+    
     
     private void OnDrawGizmosSelected()
     {
