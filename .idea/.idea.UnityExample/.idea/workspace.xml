@@ -2,22 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a809e8a-1a9e-4bdb-9946-08a850056626" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Script/Example1/DetectTargetByCollider.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Script/Example1/DetectTargetByCollider.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Script/Example1/DetectTargetByPhysics.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Script/Example1/DetectTargetByPhysics.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.UnityExample/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.UnityExample/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Perfebs/Example1/Monster/Monster.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Perfebs/Example1/Monster/Monster.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Example1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Example1.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Script/Example1/Base/CreateMonster.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Example1/Base/CreateMonster.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Example1/DetectTargetByCollider.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Example1/DetectTargetByCollider.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Script/Example1/DetectTargetByDistance.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Example1/DetectTargetByDistance.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Example1/DetectTargetByPhysics.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Example1/DetectTargetByPhysics.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock://D:/unity/project/UnityExample/Assets/Script/Example1/Base/CreateMonster.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -60,10 +60,10 @@
       </option>
       <method v="2" />
     </configuration>
-    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" ignored-value-for-modified-check="4304">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
-      <option name="pid" value="4304" />
+      <option name="pid" />
       <option name="projectPathOnTarget" />
       <option name="selectedOptions">
         <list />
@@ -80,8 +80,17 @@
       <option name="presentableId" value="Default" />
       <updated>1661858299014</updated>
       <workItem from="1661858302792" duration="3703000" />
-      <workItem from="1661866868239" duration="5377000" />
+      <workItem from="1661866868239" duration="5526000" />
+      <workItem from="1662274719095" duration="11825000" />
     </task>
+    <task id="LOCAL-00001" summary="找到目标的三种方式（范围内检测敌人）">
+      <created>1661873112405</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661873112405</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,5 +113,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="找到目标的三种方式（范围内检测敌人）" />
+    <option name="LAST_COMMIT_MESSAGE" value="找到目标的三种方式（范围内检测敌人）" />
   </component>
 </project>

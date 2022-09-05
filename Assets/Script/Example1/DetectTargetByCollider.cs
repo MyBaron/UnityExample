@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using UnityEditor;
 using UnityEngine;
 
 /*
@@ -7,15 +8,14 @@ using UnityEngine;
  */
 public class DetectTargetByCollider : MonoBehaviour
 {
-    
-    /*检测到的对象*/
-    private List<GameObject> detect = new List<GameObject>();
-    
+
+    private List<GameObject> detects = new List<GameObject>();
+
     private void OnTriggerEnter2D(Collider2D col)
     {
         if (col.CompareTag("Monster"))
         {
-            detect.Add(col.gameObject);
+            detects.Add(col.gameObject);
         }
     }
 
@@ -23,20 +23,21 @@ public class DetectTargetByCollider : MonoBehaviour
     {
         if (other.CompareTag("Monster"))
         {
-            detect.Remove(other.gameObject);
+            detects.Remove(other.gameObject);
+            
         }
     }
-    
+
     private void OnDrawGizmosSelected()
     {
-       // Gizmos.DrawWireSphere(transform.position, 2);
-
-        if (detect == null)
-            return;
-        Gizmos.color = Color.magenta;
-        foreach (var item in detect)
+        if (detects == null)
         {
-            Gizmos.DrawSphere(item.transform.position, 0.3f);
+            return;
+        }
+        Gizmos.color = Color.blue;
+        foreach (var detect in detects)
+        {
+            Gizmos.DrawSphere(detect.transform.position,0.3f);
         }
     }
 }

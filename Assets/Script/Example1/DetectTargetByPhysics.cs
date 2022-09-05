@@ -1,4 +1,5 @@
 ﻿
+using System;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -7,37 +8,35 @@ using UnityEngine;
  */
 public class DetectTargetByPhysics : MonoBehaviour
 {
-    /*检测范围*/
     public int range = 2;
 
-    [Header("检测图层")]
     [SerializeField]
-    public LayerMask layerMask;
+    public LayerMask LayerMask;
 
-    /*检测到的对象*/
-    private List<GameObject> detect ;
-    
-    void Update()
+    private List<GameObject> detects;
+
+    private void Update()
     {
-        detect = new List<GameObject>();
-        var objColliders = Physics2D.OverlapCircleAll(transform.position,range,layerMask);
-        foreach (var monster in objColliders)
+        detects = new List<GameObject>();
+        var objs = Physics2D.OverlapCircleAll(transform.position, range, LayerMask);
+        foreach (var obj in objs)
         {
-                detect.Add(monster.gameObject);
+            detects.Add(obj.gameObject);
         }
     }
-    
-    
+
     private void OnDrawGizmosSelected()
     {
-        Gizmos.DrawWireSphere(transform.position, range);
+        Gizmos.DrawWireSphere(transform.position,range);
 
-        if (detect == null)
-            return;
-        Gizmos.color = Color.magenta;
-        foreach (var item in detect)
+        if (detects == null)
         {
-            Gizmos.DrawSphere(item.transform.position, 0.3f);
+            return;
+        }
+        Gizmos.color = Color.green;
+        foreach (var detect in detects)
+        {
+            Gizmos.DrawSphere(detect.transform.position,0.3f);
         }
     }
 }

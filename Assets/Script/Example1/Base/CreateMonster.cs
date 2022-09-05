@@ -2,32 +2,35 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Serialization;
 
 public class CreateMonster : MonoBehaviour
 {
-  [SerializeField]
-  private Vector2 position;
-  [SerializeField]
-  private GameObject monsterPerfab;
+    [SerializeField]
+    private Vector2 postion;
 
-  private float _createTime = 0;
+    [SerializeField]
+    private GameObject monster;
 
-  public List<GameObject> MonsterList { get; } = new List<GameObject>();
+    private float _createTime;
 
-  public static CreateMonster Instance { get; set; }
+    public List<GameObject> MonsterList = new List<GameObject>();
+    
+    public static CreateMonster Instance { get; set; }
 
-  private void Awake()
-  {
-    Instance = this;
-  }
-
-  private void Update()
-  {
-    _createTime += Time.deltaTime;
-    if (_createTime > 2)
+    private void Start()
     {
-      _createTime = 0;
-      MonsterList.Add(Instantiate(monsterPerfab, position, new Quaternion(0, 180, 0, 1)));
+        Instance = this;
     }
-  }
+
+    private void Update()
+    {
+        _createTime += Time.deltaTime;
+        if (_createTime >= 2)
+        {
+            _createTime = 0;
+            var monsterGameObject = Instantiate(monster, postion, new Quaternion(0, 180, 0, 1));
+            MonsterList.Add(monsterGameObject);
+        }
+    }
 }

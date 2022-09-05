@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -8,37 +9,45 @@ using UnityEngine;
  */
 public class DetectTargetByDistance : MonoBehaviour
 {
-    
-    /**/
     public int range = 2;
 
-    /*检测到的对象*/
-    private List<GameObject> detect ;
-    
-    void Update()
+    private List<GameObject> detects;
+
+    private float time = 0;
+
+    private void Update()
     {
-        detect = new List<GameObject>();
+        time -= Time.deltaTime;
+        if (time>0)
+        {
+            time = 1;
+            return;
+        }
+        
+        detects = new List<GameObject>();
         var monsterList = CreateMonster.Instance.MonsterList;
         foreach (var monster in monsterList)
         {
-            if (Vector2.Distance(gameObject.transform.position,monster.transform.position)< range)
+            if (Vector2.Distance(gameObject.transform.position, monster.transform.position) < range)
             {
-                detect.Add(monster);
+                detects.Add(monster);
             }
         }
+
+        Debug.Log($"{detects.Count}");
     }
 
-    
     private void OnDrawGizmosSelected()
     {
-        Gizmos.DrawWireSphere(transform.position, range);
-
-        if (detect == null)
+        Gizmos.DrawWireSphere(transform.position,range);
+        
+        if(detects == null)
             return;
+        
         Gizmos.color = Color.magenta;
-        foreach (var item in detect)
+        foreach (var detect in detects)
         {
-            Gizmos.DrawSphere(item.transform.position, 0.3f);
+            Gizmos.DrawSphere(detect.transform.position,0.3f);
         }
     }
 }
