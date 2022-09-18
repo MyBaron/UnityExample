@@ -1,0 +1,3233 @@
+fileFormatVersion: 2
+guid: 89d0d2c995a54eb2a3cb02091a983efd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5274775049322057499
+    second: 001_hammer_0
+  - first:
+      213: -240916613696212647
+    second: 001_hammer_1
+  - first:
+      213: -6285793921241121019
+    second: 001_hammer_2
+  - first:
+      213: -4328787438642630353
+    second: 001_hammer_3
+  - first:
+      213: 8430470839832278914
+    second: 001_hammer_4
+  - first:
+      213: -3921773754612871051
+    second: 001_hammer_5
+  - first:
+      213: 7382316604420820713
+    second: 001_hammer_6
+  - first:
+      213: 6882076524358551038
+    second: 001_hammer_7
+  - first:
+      213: -7714318241341622622
+    second: 001_hammer_8
+  - first:
+      213: 6056627319248306142
+    second: 001_hammer_9
+  - first:
+      213: 8197611276478126818
+    second: 001_hammer_10
+  - first:
+      213: 3604073090877036727
+    second: 001_hammer_11
+  - first:
+      213: 7509609907042988865
+    second: 001_hammer_12
+  - first:
+      213: -4228919343440045587
+    second: 001_hammer_13
+  - first:
+      213: 841012734998899874
+    second: 001_hammer_14
+  - first:
+      213: 3125565811643508561
+    second: 001_hammer_15
+  - first:
+      213: 6986681937607399549
+    second: 001_hammer_16
+  - first:
+      213: -2695192521173101811
+    second: 001_hammer_17
+  - first:
+      213: -3898763159682607312
+    second: 001_hammer_18
+  - first:
+      213: 8211478075165952218
+    second: 001_hammer_19
+  - first:
+      213: 708074811386268309
+    second: 001_hammer_20
+  - first:
+      213: 8712478083076325972
+    second: 001_hammer_21
+  - first:
+      213: 1035458597230880550
+    second: 001_hammer_22
+  - first:
+      213: -2389348348986437142
+    second: 001_hammer_23
+  - first:
+      213: -1994349377317890770
+    second: 001_hammer_24
+  - first:
+      213: -2282055467132965937
+    second: 001_hammer_25
+  - first:
+      213: 2339097521562256790
+    second: 001_hammer_26
+  - first:
+      213: -4944737209023222235
+    second: 001_hammer_27
+  - first:
+      213: 1792129651267147191
+    second: 001_hammer_28
+  - first:
+      213: 5461666792952267951
+    second: 001_hammer_29
+  - first:
+      213: -4619814713927112366
+    second: 001_hammer_30
+  - first:
+      213: -7674379613454262245
+    second: 001_hammer_31
+  - first:
+      213: 1457172458166260799
+    second: 001_hammer_32
+  - first:
+      213: 6017864577557358419
+    second: 001_hammer_33
+  - first:
+      213: 2694250044961564324
+    second: 001_hammer_34
+  - first:
+      213: 2499975439325654169
+    second: 001_hammer_35
+  - first:
+      213: -4774828172912763754
+    second: 001_hammer_36
+  - first:
+      213: -2920665200469701322
+    second: 001_hammer_37
+  - first:
+      213: 1995012016254685860
+    second: 001_hammer_38
+  - first:
+      213: -6412667471692929163
+    second: 001_hammer_39
+  - first:
+      213: -6127797900659586815
+    second: 001_hammer_40
+  - first:
+      213: -4422575681741356294
+    second: 001_hammer_41
+  - first:
+      213: -3961971983526832868
+    second: 001_hammer_42
+  - first:
+      213: -5364325370816698596
+    second: 001_hammer_43
+  - first:
+      213: 5101168117309397860
+    second: 001_hammer_44
+  - first:
+      213: 8422293151357304162
+    second: 001_hammer_45
+  - first:
+      213: 5348215600996515745
+    second: 001_hammer_46
+  - first:
+      213: 4475779377400667419
+    second: 001_hammer_47
+  - first:
+      213: 6287117679097949604
+    second: 001_hammer_48
+  - first:
+      213: 6018017252498170855
+    second: 001_hammer_49
+  - first:
+      213: -4689563195288058664
+    second: 001_hammer_50
+  - first:
+      213: 4592534225674511761
+    second: 001_hammer_51
+  - first:
+      213: -187892704066665763
+    second: 001_hammer_52
+  - first:
+      213: -8433298003520783450
+    second: 001_hammer_53
+  - first:
+      213: 5729993977051004262
+    second: 001_hammer_54
+  - first:
+      213: 6592137770139963411
+    second: 001_hammer_55
+  - first:
+      213: 3286396199185379605
+    second: 001_hammer_56
+  - first:
+      213: 3214540653495798336
+    second: 001_hammer_57
+  - first:
+      213: -3331124526663525055
+    second: 001_hammer_58
+  - first:
+      213: -5860591731966654340
+    second: 001_hammer_59
+  - first:
+      213: 6292802847890980572
+    second: 001_hammer_60
+  - first:
+      213: 4034693598504933066
+    second: 001_hammer_61
+  - first:
+      213: -1804157020163394644
+    second: 001_hammer_62
+  - first:
+      213: -1235394826751163176
+    second: 001_hammer_63
+  - first:
+      213: 6630191106626850489
+    second: 001_hammer_64
+  - first:
+      213: -1881367936887330717
+    second: 001_hammer_65
+  - first:
+      213: -6602276521115539539
+    second: 001_hammer_66
+  - first:
+      213: 7172233692535450846
+    second: 001_hammer_67
+  - first:
+      213: -3229777415598942336
+    second: 001_hammer_68
+  - first:
+      213: 77487584450694345
+    second: 001_hammer_69
+  - first:
+      213: -5508781038341591204
+    second: 001_hammer_70
+  - first:
+      213: 3173695524775523510
+    second: 001_hammer_71
+  - first:
+      213: 9175212174953244342
+    second: 001_hammer_72
+  - first:
+      213: -4172392228623834347
+    second: 001_hammer_73
+  - first:
+      213: -2570690234952332181
+    second: 001_hammer_74
+  - first:
+      213: 6985118403069797110
+    second: 001_hammer_75
+  - first:
+      213: -5783873889142712932
+    second: 001_hammer_76
+  - first:
+      213: -6037862803414944404
+    second: 001_hammer_77
+  - first:
+      213: 1814411354893088871
+    second: 001_hammer_78
+  - first:
+      213: -7297986148856214795
+    second: 001_hammer_79
+  - first:
+      213: -6984072699514600200
+    second: 001_hammer_80
+  - first:
+      213: -8889336710246557492
+    second: 001_hammer_81
+  - first:
+      213: 3080717940028126421
+    second: 001_hammer_82
+  - first:
+      213: 4421512955578580932
+    second: 001_hammer_83
+  - first:
+      213: 7511329137779333041
+    second: 001_hammer_84
+  - first:
+      213: 473997412839936334
+    second: 001_hammer_85
+  - first:
+      213: -5108005830915595406
+    second: 001_hammer_86
+  - first:
+      213: -8381182583994624698
+    second: 001_hammer_87
+  - first:
+      213: 114718958485215509
+    second: 001_hammer_88
+  - first:
+      213: 6470380785550507568
+    second: 001_hammer_89
+  - first:
+      213: -503918749792336036
+    second: 001_hammer_90
+  - first:
+      213: 5819803379657371639
+    second: 001_hammer_91
+  - first:
+      213: -1250264185244656138
+    second: 001_hammer_92
+  - first:
+      213: -2591126816901460112
+    second: 001_hammer_93
+  - first:
+      213: -1575268203316505607
+    second: 001_hammer_94
+  - first:
+      213: 328421225290863016
+    second: 001_hammer_95
+  - first:
+      213: -4815569620469555035
+    second: 001_hammer_96
+  - first:
+      213: -6049718448698227014
+    second: 001_hammer_97
+  - first:
+      213: 4736723087337203410
+    second: 001_hammer_98
+  - first:
+      213: 3060217783616247788
+    second: 001_hammer_99
+  - first:
+      213: -1087521787092999150
+    second: 001_hammer_100
+  - first:
+      213: -649163872742959939
+    second: 001_hammer_101
+  - first:
+      213: -7554031587201516320
+    second: 001_hammer_102
+  - first:
+      213: -3092050799291834292
+    second: 001_hammer_103
+  - first:
+      213: 1638575588353399821
+    second: 001_hammer_104
+  - first:
+      213: -8066419825917707349
+    second: 001_hammer_105
+  - first:
+      213: -5654749477066414401
+    second: 001_hammer_106
+  - first:
+      213: 5339174844322584931
+    second: 001_hammer_107
+  - first:
+      213: 7101912190140941792
+    second: 001_hammer_108
+  - first:
+      213: 1603288881959135285
+    second: 001_hammer_109
+  - first:
+      213: -1536752738084373810
+    second: 001_hammer_110
+  - first:
+      213: 7279256716216639473
+    second: 001_hammer_111
+  - first:
+      213: -4374573603027862903
+    second: 001_hammer_112
+  - first:
+      213: 4641466275741758864
+    second: 001_hammer_113
+  - first:
+      213: 476324293138707606
+    second: 001_hammer_114
+  - first:
+      213: 4301844918096825189
+    second: hammer_0
+  - first:
+      213: -6030043224269349317
+    second: hammer_1
+  - first:
+      213: -8258728375015105676
+    second: hammer_2
+  - first:
+      213: -1159298483449069950
+    second: hammer_3
+  - first:
+      213: 1784401183296663280
+    second: hammer_4
+  - first:
+      213: 1632725881280823895
+    second: hammer_5
+  - first:
+      213: 393260495992152720
+    second: hammer_6
+  - first:
+      213: -3640931303203937128
+    second: hammer_7
+  - first:
+      213: -8705565869883891278
+    second: hammer_8
+  - first:
+      213: 8926881477360062686
+    second: hammer_9
+  - first:
+      213: -534786374937900092
+    second: hammer_10
+  - first:
+      213: 4482013812231433375
+    second: hammer_11
+  - first:
+      213: 5828879757645499619
+    second: hammer_12
+  - first:
+      213: 8193595170819662410
+    second: hammer_13
+  - first:
+      213: -4861325127886710163
+    second: hammer_14
+  - first:
+      213: 3792571915530056257
+    second: hammer_15
+  - first:
+      213: -8513103162584473425
+    second: hammer_16
+  - first:
+      213: 6719641860199963690
+    second: hammer_17
+  - first:
+      213: -3370679024140313256
+    second: hammer_18
+  - first:
+      213: -4331098000531199671
+    second: hammer_19
+  - first:
+      213: 7893869484515573170
+    second: hammer_20
+  - first:
+      213: -7072256234765588052
+    second: hammer_21
+  - first:
+      213: 7481481524664423878
+    second: hammer_22
+  - first:
+      213: 1288512676092964861
+    second: hammer_23
+  - first:
+      213: 6409724009022252772
+    second: hammer_24
+  - first:
+      213: -457022392493176604
+    second: hammer_25
+  - first:
+      213: 6799394740245925410
+    second: hammer_26
+  - first:
+      213: 5024843805982009822
+    second: hammer_27
+  - first:
+      213: 4594052159879894319
+    second: hammer_28
+  - first:
+      213: 5026638128404016518
+    second: hammer_29
+  - first:
+      213: -1257515635823417256
+    second: hammer_30
+  - first:
+      213: 1772700124800629159
+    second: hammer_31
+  - first:
+      213: -5762582319765422513
+    second: hammer_32
+  - first:
+      213: 7251075071462186624
+    second: hammer_33
+  - first:
+      213: 5481668724969385435
+    second: hammer_34
+  - first:
+      213: -5879684498899406561
+    second: hammer_35
+  - first:
+      213: -289591187564913714
+    second: hammer_36
+  - first:
+      213: -4275070602618552143
+    second: hammer_37
+  - first:
+      213: -8472087346324730674
+    second: hammer_38
+  - first:
+      213: 378015464035893714
+    second: hammer_39
+  - first:
+      213: 2629156340169277930
+    second: hammer_40
+  - first:
+      213: -1560265592923130321
+    second: hammer_41
+  - first:
+      213: -8729652842642655520
+    second: hammer_42
+  - first:
+      213: 6279685818444366584
+    second: hammer_43
+  - first:
+      213: -6352522806898771380
+    second: hammer_44
+  - first:
+      213: 6520455530750025355
+    second: hammer_45
+  - first:
+      213: 6204423399410510615
+    second: hammer_46
+  - first:
+      213: 3802440789794144242
+    second: hammer_47
+  - first:
+      213: 8875731276440698387
+    second: hammer_48
+  - first:
+      213: -5719898707453816783
+    second: hammer_49
+  - first:
+      213: 3746224243573389633
+    second: hammer_50
+  - first:
+      213: 8637016385685458110
+    second: hammer_51
+  - first:
+      213: 8395477673039060702
+    second: hammer_52
+  - first:
+      213: -4640053971369523161
+    second: hammer_53
+  - first:
+      213: 3720013395567333592
+    second: hammer_54
+  - first:
+      213: -7829650327012590710
+    second: hammer_55
+  - first:
+      213: -529641917805584282
+    second: hammer_56
+  - first:
+      213: -5749438563543516831
+    second: hammer_57
+  - first:
+      213: -892874023095245648
+    second: hammer_58
+  - first:
+      213: 447057644196353604
+    second: hammer_59
+  - first:
+      213: -2847747920347511190
+    second: hammer_60
+  - first:
+      213: 8944694689506869501
+    second: hammer_61
+  - first:
+      213: -6763761567236526583
+    second: hammer_62
+  - first:
+      213: 6955622604629860418
+    second: hammer_63
+  - first:
+      213: -2893778390963568082
+    second: hammer_64
+  - first:
+      213: -7360400304423370919
+    second: hammer_65
+  - first:
+      213: 2727831115194732603
+    second: hammer_66
+  - first:
+      213: -1224566600918706086
+    second: hammer_67
+  - first:
+      213: 5537542389833841543
+    second: hammer_68
+  - first:
+      213: -2947573371532446949
+    second: hammer_69
+  - first:
+      213: -1045973823583632548
+    second: hammer_70
+  - first:
+      213: -3786070599222653773
+    second: hammer_71
+  - first:
+      213: 543247148151449114
+    second: hammer_72
+  - first:
+      213: -1773165480792350229
+    second: hammer_73
+  - first:
+      213: 2143386315380713765
+    second: hammer_74
+  - first:
+      213: 3526294235823384953
+    second: hammer_75
+  - first:
+      213: -992834176951671126
+    second: hammer_76
+  - first:
+      213: 4198043938323288111
+    second: hammer_77
+  - first:
+      213: 3356334804664717828
+    second: hammer_78
+  - first:
+      213: 5442320103220465194
+    second: hammer_79
+  - first:
+      213: 888453929970632389
+    second: hammer_80
+  - first:
+      213: 115571285333300961
+    second: hammer_81
+  - first:
+      213: -4927436589739444621
+    second: hammer_82
+  - first:
+      213: 3803808630041690509
+    second: hammer_83
+  - first:
+      213: 7360035006348244736
+    second: hammer_84
+  - first:
+      213: 3037071818744157262
+    second: hammer_85
+  - first:
+      213: -2079664729519257747
+    second: hammer_86
+  - first:
+      213: 8531776100889098398
+    second: hammer_87
+  - first:
+      213: 5262568656694774764
+    second: hammer_88
+  - first:
+      213: 4980378469015488568
+    second: hammer_89
+  - first:
+      213: -7122004914064335538
+    second: hammer_90
+  - first:
+      213: -2055993743386218512
+    second: hammer_91
+  - first:
+      213: 8486791998669829867
+    second: hammer_92
+  - first:
+      213: -8381139648068678954
+    second: hammer_93
+  - first:
+      213: -4610836268537957806
+    second: hammer_94
+  - first:
+      213: -6835170736069630731
+    second: hammer_95
+  - first:
+      213: -6282673507862702824
+    second: hammer_96
+  - first:
+      213: 6945847206773091799
+    second: hammer_97
+  - first:
+      213: 171058647944197056
+    second: hammer_98
+  - first:
+      213: -6126786296759603630
+    second: hammer_99
+  - first:
+      213: -8993491770090487027
+    second: hammer_100
+  - first:
+      213: 3652141923488902644
+    second: hammer_101
+  - first:
+      213: -9072208556516171781
+    second: hammer_102
+  - first:
+      213: -4922591552357811309
+    second: hammer_103
+  - first:
+      213: 6730740922480113244
+    second: hammer_104
+  - first:
+      213: -1382675829412347848
+    second: hammer_105
+  - first:
+      213: 8399338633486700272
+    second: hammer_106
+  - first:
+      213: -3146826701947736339
+    second: hammer_107
+  - first:
+      213: 7553004878811678046
+    second: hammer_108
+  - first:
+      213: -6959683591609434951
+    second: hammer_109
+  - first:
+      213: 8480618801693251278
+    second: hammer_110
+  - first:
+      213: -5208682283985555533
+    second: hammer_111
+  - first:
+      213: -5918842453988421400
+    second: hammer_112
+  - first:
+      213: 1298624914113844986
+    second: hammer_113
+  - first:
+      213: -1653102547180293636
+    second: hammer_114
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 130
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hammer_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3000
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b0bfd292933bb30800000000000000
+      internalID: 4301844918096825189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_1
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 3000
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e9c25d2abf05ca0800000000000000
+      internalID: -6030043224269349317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_2
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 3000
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b19ceac4a136d80800000000000000
+      internalID: -8258728375015105676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_3
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 3000
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e7e59eb2859efe0800000000000000
+      internalID: -1159298483449069950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_4
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 3000
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe2f2b0c6773c810800000000000000
+      internalID: 1784401183296663280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_5
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 3000
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7528459d98b98a610800000000000000
+      internalID: 1632725881280823895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_6
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 3000
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0926ec76654257500800000000000000
+      internalID: 393260495992152720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_7
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 3000
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894edec2540d87dc0800000000000000
+      internalID: -3640931303203937128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_8
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 3000
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b16ec427fd9f2780800000000000000
+      internalID: -8705565869883891278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_9
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 3000
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed09f023867a2eb70800000000000000
+      internalID: 8926881477360062686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_10
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 3000
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb8b1b10ae0498f0800000000000000
+      internalID: -534786374937900092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2700
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ce274c0df433e30800000000000000
+      internalID: 4482013812231433375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_12
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 2700
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eccce0c14754e050800000000000000
+      internalID: 5828879757645499619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_13
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2700
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42ef06756f75b170800000000000000
+      internalID: 8193595170819662410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_14
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 2700
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ad1a67d8a198cb0800000000000000
+      internalID: -4861325127886710163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_15
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2700
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142ba42301ce1a430800000000000000
+      internalID: 3792571915530056257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_16
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2700
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0e5e927c16bd980800000000000000
+      internalID: -8513103162584473425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_17
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 2700
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c501f6ba6f04d50800000000000000
+      internalID: 6719641860199963690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_18
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 2700
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d91424941f831d0800000000000000
+      internalID: -3370679024140313256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_19
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 2700
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949eeeec059d4e3c0800000000000000
+      internalID: -4331098000531199671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_20
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 2700
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bdb8dff878ac8d60800000000000000
+      internalID: 7893869484515573170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_21
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 2700
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca96146cc6c4add90800000000000000
+      internalID: -7072256234765588052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2400
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c5554fdecf83d760800000000000000
+      internalID: 7481481524664423878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_23
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 2400
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dffeb1bb377b1e110800000000000000
+      internalID: 1288512676092964861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_24
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2400
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6601aa60ae3f850800000000000000
+      internalID: 6409724009022252772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_25
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 2400
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e88b013e8458a9f0800000000000000
+      internalID: -457022392493176604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_26
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2400
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e8404dd7d4c5e50800000000000000
+      internalID: 6799394740245925410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_27
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2400
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9216b91d4dbb540800000000000000
+      internalID: 5024843805982009822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_28
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 2400
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25d14d591a51cf30800000000000000
+      internalID: 4594052159879894319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_29
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 2400
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68da4f9deb432c540800000000000000
+      internalID: 5026638128404016518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_30
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 2400
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858ee3b11386c8ee0800000000000000
+      internalID: -1257515635823417256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_31
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 2400
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a938001f55e99810800000000000000
+      internalID: 1772700124800629159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_32
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 2400
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e7f6169e13700b0800000000000000
+      internalID: -5762582319765422513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2100
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e91321c5ef0a460800000000000000
+      internalID: 7251075071462186624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_34
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 2100
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd2b2889acc21c40800000000000000
+      internalID: 5481668724969385435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_35
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2100
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11fab3a91a276ea0800000000000000
+      internalID: -5879684498899406561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_36
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 2100
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb1c17695a2bfbf0800000000000000
+      internalID: -289591187564913714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_37
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2100
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0c43defe5eba4c0800000000000000
+      internalID: -4275070602618552143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_38
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2100
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc8b3012791d6a80800000000000000
+      internalID: -8472087346324730674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_39
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 2100
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1c67dcf0bfe3500800000000000000
+      internalID: 378015464035893714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_40
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 2100
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae181c2f2c3ac7420800000000000000
+      internalID: 2629156340169277930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_41
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 2100
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f267d8ab5b2d85ae0800000000000000
+      internalID: -1560265592923130321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_42
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 2100
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e63ec5cdfa0ad680800000000000000
+      internalID: -8729652842642655520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_43
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 2100
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f24f6d0bfce52750800000000000000
+      internalID: 6279685818444366584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1800
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a3b3b0a2e47d7a0800000000000000
+      internalID: -6352522806898771380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_45
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1800
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e161422cf4d7a50800000000000000
+      internalID: 6520455530750025355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_46
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1800
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b2cf5953a8a1650800000000000000
+      internalID: 6204423399410510615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_47
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1800
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ffb22b80cbf4c430800000000000000
+      internalID: 3802440789794144242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_48
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1800
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e721ef19eec2b70800000000000000
+      internalID: 8875731276440698387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_49
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1800
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130dffe4e66de90b0800000000000000
+      internalID: -5719898707453816783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_50
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1800
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149f527e9134df330800000000000000
+      internalID: 3746224243573389633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_51
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 1800
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc820454a8dcd770800000000000000
+      internalID: 8637016385685458110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_52
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 1800
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede5735667ab28470800000000000000
+      internalID: 8395477673039060702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_53
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 1800
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72801e14f773b9fb0800000000000000
+      internalID: -4640053971369523161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_54
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1800
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d05c7a497420a330800000000000000
+      internalID: 3720013395567333592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1500
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8bb4e6c28e775390800000000000000
+      internalID: -7829650327012590710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_56
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1500
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660aa0f5b7556a8f0800000000000000
+      internalID: -529641917805584282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_57
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1500
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1697e0a9614e530b0800000000000000
+      internalID: -5749438563543516831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_58
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1500
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4eb308ecfdb93f0800000000000000
+      internalID: -892874023095245648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_59
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1500
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446527c0f84443600800000000000000
+      internalID: 447057644196353604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_60
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1500
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6644ddba54ca78d0800000000000000
+      internalID: -2847747920347511190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_61
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1500
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df04168dd60f12c70800000000000000
+      internalID: 8944694689506869501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_62
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 1500
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e6d67c0ba4222a0800000000000000
+      internalID: -6763761567236526583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_63
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 1500
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240e3ac08e5578060800000000000000
+      internalID: 6955622604629860418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_64
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 1500
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e224ae3a2eb37d7d0800000000000000
+      internalID: -2893778390963568082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_65
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1500
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ffa229bea9ad990800000000000000
+      internalID: -7360400304423370919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30907452f33bd520800000000000000
+      internalID: 2727831115194732603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_67
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1200
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58de6c1a27710fe0800000000000000
+      internalID: -1224566600918706086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_68
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1200
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78bb6b2e67d49dc40800000000000000
+      internalID: 5537542389833841543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_69
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1200
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b137860b2ad1817d0800000000000000
+      internalID: -2947573371532446949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_70
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1200
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53c0f86954fb71f0800000000000000
+      internalID: -1045973823583632548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_71
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1200
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc88c679dc257bc0800000000000000
+      internalID: -3786070599222653773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_72
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1200
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16afca27600a8700800000000000000
+      internalID: 543247148151449114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_73
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 1200
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1236dc3637467e0800000000000000
+      internalID: -1773165480792350229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_74
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 1200
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52963b86f76debd10800000000000000
+      internalID: 2143386315380713765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_75
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 1200
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979a2c3ace9efe030800000000000000
+      internalID: 3526294235823384953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_76
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1200
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6ade9839eb832f0800000000000000
+      internalID: -992834176951671126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 900
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f20dd3f38b2724a30800000000000000
+      internalID: 4198043938323288111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_78
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 900
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4021253e8b8149e20800000000000000
+      internalID: 3356334804664717828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_79
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 900
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e4c6a9c41078b40800000000000000
+      internalID: 5442320103220465194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_80
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 900
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6033f542c645c00800000000000000
+      internalID: 888453929970632389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_81
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 900
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6d680c8779a9100800000000000000
+      internalID: 115571285333300961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_82
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 900
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376715f378a3e9bb0800000000000000
+      internalID: -4927436589739444621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_83
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 900
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81433babc7d9c430800000000000000
+      internalID: 3803808630041690509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_84
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 900
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007b3d7d7d8142660800000000000000
+      internalID: 7360035006348244736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_85
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 900
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4458916ab8d52a20800000000000000
+      internalID: 3037071818744157262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_86
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 900
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67881172fb8323e0800000000000000
+      internalID: -2079664729519257747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_87
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 900
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9879a41925f66670800000000000000
+      internalID: 8531776100889098398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb856c9f46680940800000000000000
+      internalID: 5262568656694774764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_89
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 600
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8380ca494dbdd1540800000000000000
+      internalID: 4980378469015488568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_90
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 600
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ddb90c34e892d90800000000000000
+      internalID: -7122004914064335538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_91
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 600
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ffe9016594a773e0800000000000000
+      internalID: -2055993743386218512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_92
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 600
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6b75b9b5427c570800000000000000
+      internalID: 8486791998669829867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_93
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 600
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da8cef25e530bb80800000000000000
+      internalID: -8381139648068678954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_94
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 600
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252be40d7d40300c0800000000000000
+      internalID: -4610836268537957806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_95
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 600
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4ac690e689421a0800000000000000
+      internalID: -6835170736069630731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_96
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 600
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815161c4bb57fc8a0800000000000000
+      internalID: -6282673507862702824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_97
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 600
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd69dfdb3b946060800000000000000
+      internalID: 6945847206773091799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_98
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 600
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3f87a1fe8bf5200800000000000000
+      internalID: 171058647944197056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ea9eef25849faa0800000000000000
+      internalID: -6126786296759603630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_100
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 300
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d038b5972e2b03380800000000000000
+      internalID: -8993491770090487027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_101
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 300
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd2ed2cab30fa230800000000000000
+      internalID: 3652141923488902644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_102
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 300
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff189c626a091280800000000000000
+      internalID: -9072208556516171781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_103
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 300
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39bbf5b60117fabb0800000000000000
+      internalID: -4922591552357811309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_104
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 300
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56bc9f3535686d50800000000000000
+      internalID: 6730740922480113244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_105
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 300
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830cb5ca8afbfcce0800000000000000
+      internalID: -1382675829412347848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_106
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 300
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe803d4cf1709470800000000000000
+      internalID: 8399338633486700272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_107
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 300
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deee0b489c93454d0800000000000000
+      internalID: -3146826701947736339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_108
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 300
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55cc547be9a1d860800000000000000
+      internalID: 7553004878811678046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_109
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 300
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc310db5ac3a6f90800000000000000
+      internalID: -6959683591609434951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6dc6e2ed531b570800000000000000
+      internalID: 8480618801693251278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_111
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bfab2b3f0b07b7b0800000000000000
+      internalID: -5208682283985555533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_112
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0d480c52c0cdda0800000000000000
+      internalID: -5918842453988421400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_113
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 0
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af65a3e9a74a50210800000000000000
+      internalID: 1298624914113844986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_114
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 0
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1760aedfffe09e0800000000000000
+      internalID: -1653102547180293636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

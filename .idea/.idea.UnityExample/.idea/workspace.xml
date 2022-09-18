@@ -2,14 +2,618 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a809e8a-1a9e-4bdb-9946-08a850056626" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/bomb_carry_down.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/bomb_carry_down.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/bomb_carry_down.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/bomb_carry_down.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/bomb_carry_side.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/bomb_carry_side.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/bomb_carry_side.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/bomb_carry_side.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/bomb_carry_up.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/bomb_carry_up.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/bomb_carry_up.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/bomb_carry_up.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/bomb_hold_down.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/bomb_hold_down.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/bomb_hold_down.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/bomb_hold_down.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/bomb_hold_side.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/bomb_hold_side.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/bomb_hold_side.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/bomb_hold_side.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/bomb_hold_up.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/bomb_hold_up.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/bomb_hold_up.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/bomb_hold_up.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/carry_down.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/carry_down.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/carry_down.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/carry_down.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/carry_side.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/carry_side.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/carry_side.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/carry_side.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/carry_side_cover.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/carry_side_cover.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/carry_side_cover.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/carry_side_cover.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/carry_up.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/carry_up.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/carry_up.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/carry_up.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/crawl_down.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/crawl_down.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/crawl_down.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/crawl_down.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/crawl_side.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/crawl_side.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/crawl_side.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/crawl_side.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/crawl_up.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/crawl_up.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/crawl_up.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/crawl_up.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/duck_down.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/duck_down.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/duck_down.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/duck_down.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/duck_side.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/duck_side.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/duck_side.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/duck_side.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/duck_up.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/duck_up.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/duck_up.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/duck_up.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/hammer_down.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/hammer_down.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/hammer_down.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/hammer_down.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/hammer_down_cover.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/hammer_down_cover.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/hammer_down_cover.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/hammer_down_cover.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/hammer_side.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/hammer_side.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/hammer_side.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/hammer_side.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/hammer_side_cover.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/hammer_side_cover.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/hammer_side_cover.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/hammer_side_cover.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/hammer_up.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/hammer_up.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/hammer_up.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/hammer_up.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/hit1_down.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/hit1_down.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/hit1_down.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/hit1_down.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/hit1_side.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/hit1_side.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/hit1_side.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/hit1_side.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/hit1_up.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/hit1_up.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/hit1_up.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/hit1_up.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/hit2_down.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/hit2_down.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/hit2_down.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/hit2_down.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/hit2_side.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/hit2_side.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/hit2_side.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/hit2_side.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/hit2_up.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/hit2_up.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/hit2_up.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/hit2_up.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/hold_down.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/hold_down.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/hold_down.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/hold_down.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/hold_side.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/hold_side.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/hold_side.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/hold_side.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/hold_side_cover.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/hold_side_cover.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/hold_side_cover.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/hold_side_cover.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/hold_up.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/hold_up.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/hold_up.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/hold_up.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/idle_down.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/idle_down.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/idle_down.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/idle_down.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/idle_side.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/idle_side.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/idle_side.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/idle_side.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/idle_up.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/idle_up.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/idle_up.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/idle_up.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/item_bomb_ground.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/item_bomb_ground.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/item_bomb_ground.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/item_bomb_ground.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/jump_down.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/jump_down.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/jump_down.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/jump_down.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/jump_side.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/jump_side.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/jump_side.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/jump_side.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/jump_up.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/jump_up.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/jump_up.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/jump_up.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/muzzleflash_gun.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/muzzleflash_gun.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/muzzleflash_gun.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/muzzleflash_gun.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/muzzleflash_rifle.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/muzzleflash_rifle.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/muzzleflash_rifle.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/muzzleflash_rifle.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/run_down.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/run_down.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/run_down.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/run_down.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/run_side.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/run_side.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/run_side.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/run_side.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/run_up.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/run_up.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/run_up.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/run_up.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/slide_down.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/slide_down.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/slide_down.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/slide_down.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/slide_side.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/slide_side.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/slide_side.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/slide_side.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/slide_up.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/slide_up.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/slide_up.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/slide_up.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/sword_down.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/sword_down.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/sword_down.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/sword_down.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/sword_down_cover.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/sword_down_cover.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/sword_down_cover.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/sword_down_cover.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/sword_side.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/sword_side.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/sword_side.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/sword_side.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/sword_side_cover.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/sword_side_cover.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/sword_side_cover.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/sword_side_cover.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/sword_up.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/sword_up.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/sword_up.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/sword_up.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/sycthe_down.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/sycthe_down.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/sycthe_down.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/sycthe_down.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/sycthe_down_cover.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/sycthe_down_cover.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/sycthe_down_cover.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/sycthe_down_cover.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/sycthe_side.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/sycthe_side.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/sycthe_side.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/sycthe_side.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/sycthe_side_cover.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/sycthe_side_cover.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/sycthe_side_cover.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/sycthe_side_cover.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/sycthe_up.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/sycthe_up.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/sycthe_up.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/sycthe_up.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/throw_down.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/throw_down.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/throw_down.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/throw_down.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/throw_side.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/throw_side.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/throw_side.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/throw_side.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/throw_up.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/throw_up.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/throw_up.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/throw_up.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/vanish.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/vanish.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/vanish.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/vanish.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/walk_down.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/walk_down.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/walk_down.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/walk_down.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/walk_side.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/walk_side.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/walk_side.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/walk_side.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/walk_up.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/walk_up.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/walk_up.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/walk_up.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/weapon_bow_down.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/weapon_bow_down.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/weapon_bow_down.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/weapon_bow_down.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/weapon_bow_side.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/weapon_bow_side.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/weapon_bow_side.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/weapon_bow_side.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/weapon_bow_up.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/weapon_bow_up.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/weapon_bow_up.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/weapon_bow_up.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/weapon_hammer_down.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/weapon_hammer_down.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/weapon_hammer_down.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/weapon_hammer_down.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/weapon_hammer_side.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/weapon_hammer_side.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/weapon_hammer_side.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/weapon_hammer_side.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/weapon_hammer_up.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/weapon_hammer_up.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/weapon_hammer_up.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/weapon_hammer_up.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/weapon_sword_down.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/weapon_sword_down.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/weapon_sword_down.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/weapon_sword_down.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/weapon_sword_side.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/weapon_sword_side.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/weapon_sword_side.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/weapon_sword_side.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/weapon_sword_up.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/weapon_sword_up.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/weapon_sword_up.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/weapon_sword_up.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/weapon_sycthe_down.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/weapon_sycthe_down.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/weapon_sycthe_down.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/weapon_sycthe_down.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/weapon_sycthe_side.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/weapon_sycthe_side.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/weapon_sycthe_side.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/weapon_sycthe_side.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/weapon_sycthe_up.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/weapon_sycthe_up.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/weapon_sycthe_up.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/weapon_sycthe_up.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/wood_barrier.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/wood_barrier.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/wood_barrier.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Animations/wood_barrier.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Demo.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Demo/DemoScene.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Demo/DemoScene.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Demo/DemoSceneSettings.lighting" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Demo/DemoSceneSettings.lighting.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Prefabs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Prefabs/Desert_Palette.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Prefabs/Desert_Palette.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Prefabs/Grid.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Prefabs/Grid.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Prefabs/idle_down.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Prefabs/idle_down.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Prefabs/idle_side.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Prefabs/idle_side.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Prefabs/idle_up.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Prefabs/idle_up.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Prefabs/walk_down.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Prefabs/walk_down.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Prefabs/walk_side.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Prefabs/walk_side.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Prefabs/walk_up.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Prefabs/walk_up.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Sprites.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Sprites/character_bow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Sprites/character_bow.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Sprites/character_carry.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Sprites/character_carry.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Sprites/character_crawl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Sprites/character_crawl.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Sprites/character_duck.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Sprites/character_duck.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Sprites/character_gun.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Sprites/character_gun.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Sprites/character_hammer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Sprites/character_hammer.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Sprites/character_hit1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Sprites/character_hit1.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Sprites/character_hit2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Sprites/character_hit2.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Sprites/character_hold.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Sprites/character_hold.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Sprites/character_idle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Sprites/character_idle.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Sprites/character_jump.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Sprites/character_jump.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Sprites/character_rifle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Sprites/character_rifle.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Sprites/character_run.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Sprites/character_run.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Sprites/character_slide.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Sprites/character_slide.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Sprites/character_sword.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Sprites/character_sword.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Sprites/character_sycthe.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Sprites/character_sycthe.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Sprites/character_throw.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Sprites/character_throw.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Sprites/character_vanish.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Sprites/character_vanish.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Sprites/character_walk.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Sprites/character_walk.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Sprites/weapon_bow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Sprites/weapon_bow.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Sprites/weapon_gun.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Sprites/weapon_gun.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Sprites/weapon_hammer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Sprites/weapon_hammer.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Sprites/weapon_rifle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Sprites/weapon_rifle.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Sprites/weapon_sword.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Sprites/weapon_sword.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Sprites/weapon_sycthe.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Sprites/weapon_sycthe.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Sprites/world_arrow_basic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Sprites/world_arrow_basic.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Sprites/world_bomb_carry.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Sprites/world_bomb_carry.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Sprites/world_bomb_explosion.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Sprites/world_bomb_explosion.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Sprites/world_bomb_ground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Sprites/world_bomb_ground.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Sprites/world_bomb_hold.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Sprites/world_bomb_hold.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Sprites/world_bullets.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Sprites/world_bullets.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Sprites/world_desert.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Sprites/world_desert.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Sprites/world_muzzleflash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Sprites/world_muzzleflash.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Sprites/world_player_shadow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Sprites/world_player_shadow.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Sprites/world_wood_barrier.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Sprites/world_wood_barrier.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_00.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_00.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_01.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_01.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_02.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_02.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_03.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_03.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_04.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_04.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_05.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_05.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_06.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_06.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_07.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_07.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_08.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_08.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_09.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_09.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_10.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_10.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_11.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_11.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_12.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_12.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_13.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_13.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_14.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_14.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_15.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_15.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_16.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_16.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_17.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_17.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_18.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_18.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_19.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_19.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_20.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_20.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_21.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_21.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_22.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_22.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_23.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_23.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_24.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_24.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_25.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_25.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_26.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_26.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_27.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_27.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_28.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_28.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_29.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_29.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_30.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_30.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_31.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_31.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_32.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_32.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_33.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_33.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_34.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_34.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_35.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_35.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_36.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_36.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_37.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_37.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_38.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_38.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_39.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_39.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_40.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_40.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_41.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_41.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_42.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_42.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_43.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_43.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_44.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_44.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_45.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_45.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_46.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_46.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_47.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_47.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_48.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_48.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_49.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_49.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_50.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_50.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_51.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_51.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_52.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_52.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_53.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_53.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_54.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_54.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_55.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_55.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_56.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_56.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_57.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_57.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_58.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_58.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_59.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_59.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_60.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_60.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_61.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_61.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_62.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_62.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_63.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_63.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_64.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_64.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_65.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_65.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_66.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_66.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_67.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_67.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_68.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_68.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_69.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_69.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_70.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_70.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_71.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_71.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_72.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_72.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_73.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_73.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_74.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_74.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_75.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_75.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_76.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_76.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_77.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_77.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_78.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_78.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_79.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_79.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_80.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_80.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_81.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_81.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_82.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_82.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_83.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_83.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_84.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_84.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_85.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_85.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_86.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_86.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_87.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_87.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_88.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_88.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_89.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_89.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_90.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_90.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_91.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_91.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_92.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_92.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_93.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_93.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_94.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_94.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_95.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/COPY SPRIGHT/2D Character - Astronaut/Tilemap/desert_95.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Script/Example2.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Script/Example2/Ex_AddForce_Start.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Script/Example2/Ex_AddForce_Start.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Script/Example2/Ex_AddForce_Update.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Script/Example2/Ex_AddForce_Update.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Script/Example2/Ex_Lerp.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Script/Example2/Ex_Lerp.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Script/Example2/Ex_MoveTowards.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Script/Example2/Ex_Position.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Script/Example2/Ex_Position.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Script/Example2/Ex_SmoothDamp.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Script/Example2/Ex_SmoothDamp.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Script/Example2/Ex_Velocity.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Script/Example2/Ex_Velocity.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Script/Example2/Hero.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Script/Example2/Hero.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Script/Example2/HeroPlayAnim.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Script/Example2/HeroPlayAnim.cs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.UnityExample/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.UnityExample/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Perfebs/Example1/Monster/Monster.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Perfebs/Example1/Monster/Monster.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Example1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Example1.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script/Example1/Base/CreateMonster.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Example1/Base/CreateMonster.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script/Example1/DetectTargetByCollider.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Example1/DetectTargetByCollider.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script/Example1/DetectTargetByDistance.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Example1/DetectTargetByDistance.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script/Example1/DetectTargetByPhysics.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Example1/DetectTargetByPhysics.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,7 +621,18 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="mock://D:/unity/project/UnityExample/Assets/Script/Example1/Base/CreateMonster.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ad0a7939819048a0a161f66558c9886726800/2a/5089818e/Animator.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/f98083cbc97e4fa0a4ef2f523feff5e113bc00/18/021588ab/Transform.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/f98083cbc97e4fa0a4ef2f523feff5e113bc00/3d/033088de/Vector3.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Example2/Ex_AddForce_Start.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Example2/Ex_AddForce_Update.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Example2/Ex_Lerp.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Example2/Ex_MovePosition.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Example2/Ex_SmoothDamp.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Example2/Ex_Translate.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Example2/Ex_Translate_15frame.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Example2/Ex_Velocity.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Example2/HeroPlayAnim.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -82,6 +697,10 @@
       <workItem from="1661858302792" duration="3703000" />
       <workItem from="1661866868239" duration="5526000" />
       <workItem from="1662274719095" duration="11825000" />
+      <workItem from="1662376885626" duration="657000" />
+      <workItem from="1662559730440" duration="3386000" />
+      <workItem from="1663164992521" duration="5444000" />
+      <workItem from="1663239394963" duration="7874000" />
     </task>
     <task id="LOCAL-00001" summary="找到目标的三种方式（范围内检测敌人）">
       <created>1661873112405</created>
@@ -90,7 +709,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661873112405</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="example 1">
+      <created>1662376900554</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1662376900554</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,6 +740,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="找到目标的三种方式（范围内检测敌人）" />
-    <option name="LAST_COMMIT_MESSAGE" value="找到目标的三种方式（范围内检测敌人）" />
+    <MESSAGE value="example 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="example 1" />
   </component>
 </project>

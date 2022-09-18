@@ -1,0 +1,2228 @@
+fileFormatVersion: 2
+guid: 2cd92e9f32354f3c924b9ba0617cfbd3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1978489430561267602
+    second: 001_sycthe_0
+  - first:
+      213: 2281124448338850148
+    second: 001_sycthe_1
+  - first:
+      213: 6592993106310129733
+    second: 001_sycthe_2
+  - first:
+      213: -5150235189786250862
+    second: 001_sycthe_3
+  - first:
+      213: 6919520863836529059
+    second: 001_sycthe_4
+  - first:
+      213: 746985427231691994
+    second: 001_sycthe_5
+  - first:
+      213: -1413061385245475969
+    second: 001_sycthe_6
+  - first:
+      213: 1632649760602996579
+    second: 001_sycthe_7
+  - first:
+      213: -7755922362669762682
+    second: 001_sycthe_8
+  - first:
+      213: 1575192425290854496
+    second: 001_sycthe_9
+  - first:
+      213: -8588218573791640844
+    second: 001_sycthe_10
+  - first:
+      213: -376397546164468761
+    second: 001_sycthe_11
+  - first:
+      213: 3731763229548201704
+    second: 001_sycthe_12
+  - first:
+      213: -3846911807020227947
+    second: 001_sycthe_13
+  - first:
+      213: -6236725125682128024
+    second: 001_sycthe_14
+  - first:
+      213: -5490781225350213720
+    second: 001_sycthe_15
+  - first:
+      213: 2394318720098250561
+    second: 001_sycthe_16
+  - first:
+      213: -5280921835014787226
+    second: 001_sycthe_17
+  - first:
+      213: 8068243621019273098
+    second: 001_sycthe_18
+  - first:
+      213: 6772556734224964646
+    second: 001_sycthe_19
+  - first:
+      213: -6452480179594549292
+    second: 001_sycthe_20
+  - first:
+      213: -7599338029481039750
+    second: 001_sycthe_21
+  - first:
+      213: -5905041570628509419
+    second: 001_sycthe_22
+  - first:
+      213: 1735764396858330800
+    second: 001_sycthe_23
+  - first:
+      213: 3553116495997302092
+    second: 001_sycthe_24
+  - first:
+      213: -2372953691513355785
+    second: 001_sycthe_25
+  - first:
+      213: -7813879024005985965
+    second: 001_sycthe_26
+  - first:
+      213: -293277321018511469
+    second: 001_sycthe_27
+  - first:
+      213: -4579002914171800545
+    second: 001_sycthe_28
+  - first:
+      213: 6911109659476163958
+    second: 001_sycthe_29
+  - first:
+      213: 8176273402058625700
+    second: 001_sycthe_30
+  - first:
+      213: -2233449907614945276
+    second: 001_sycthe_31
+  - first:
+      213: -5959186427753352392
+    second: 001_sycthe_32
+  - first:
+      213: 1910525425371112603
+    second: 001_sycthe_33
+  - first:
+      213: 3414614248716861582
+    second: 001_sycthe_34
+  - first:
+      213: -5059333533096449283
+    second: 001_sycthe_35
+  - first:
+      213: -384638685923092841
+    second: 001_sycthe_36
+  - first:
+      213: -5889335343791150559
+    second: 001_sycthe_37
+  - first:
+      213: -4781678497435382016
+    second: 001_sycthe_38
+  - first:
+      213: -2839626794225926471
+    second: 001_sycthe_39
+  - first:
+      213: 1054451728845072305
+    second: 001_sycthe_40
+  - first:
+      213: 3506444540960348305
+    second: 001_sycthe_41
+  - first:
+      213: 8259313024207599252
+    second: 001_sycthe_42
+  - first:
+      213: -8653867507576233372
+    second: 001_sycthe_43
+  - first:
+      213: -239572586668125284
+    second: 001_sycthe_44
+  - first:
+      213: 1311367524380483522
+    second: 001_sycthe_45
+  - first:
+      213: 4637343230217583361
+    second: 001_sycthe_46
+  - first:
+      213: -6890276744875671053
+    second: 001_sycthe_47
+  - first:
+      213: -2723335981550727747
+    second: 001_sycthe_48
+  - first:
+      213: 2963736812416189917
+    second: 001_sycthe_49
+  - first:
+      213: 2223346478497362379
+    second: 001_sycthe_50
+  - first:
+      213: -7231928218431232928
+    second: 001_sycthe_51
+  - first:
+      213: 815415877832120706
+    second: 001_sycthe_52
+  - first:
+      213: 6688823373785403653
+    second: 001_sycthe_53
+  - first:
+      213: -6961772269246695569
+    second: 001_sycthe_54
+  - first:
+      213: 6590127667192079842
+    second: 001_sycthe_55
+  - first:
+      213: -6703975982184229411
+    second: 001_sycthe_56
+  - first:
+      213: 1305792484268179554
+    second: 001_sycthe_57
+  - first:
+      213: -793479591765076816
+    second: 001_sycthe_58
+  - first:
+      213: 5206899537726323256
+    second: 001_sycthe_59
+  - first:
+      213: 7353389228907970597
+    second: 001_sycthe_60
+  - first:
+      213: -5998754141208210585
+    second: 001_sycthe_61
+  - first:
+      213: 1055914186187395073
+    second: 001_sycthe_62
+  - first:
+      213: -6903140752729675268
+    second: 001_sycthe_63
+  - first:
+      213: 5367330537172080998
+    second: 001_sycthe_64
+  - first:
+      213: -7981849379011340976
+    second: 001_sycthe_65
+  - first:
+      213: 76596412908365435
+    second: 001_sycthe_66
+  - first:
+      213: 3143687906611735093
+    second: 001_sycthe_67
+  - first:
+      213: -570498789667582395
+    second: 001_sycthe_68
+  - first:
+      213: -2255308385225946857
+    second: 001_sycthe_69
+  - first:
+      213: -5976516271593428564
+    second: sycthe_0
+  - first:
+      213: 8662598778089055751
+    second: sycthe_1
+  - first:
+      213: 6526560423545924460
+    second: sycthe_2
+  - first:
+      213: 1952950570906857887
+    second: sycthe_3
+  - first:
+      213: -2738644331847009788
+    second: sycthe_4
+  - first:
+      213: -8149644795044491681
+    second: sycthe_5
+  - first:
+      213: 7527427152574064779
+    second: sycthe_6
+  - first:
+      213: -636152645787474920
+    second: sycthe_7
+  - first:
+      213: 7970160491953025584
+    second: sycthe_8
+  - first:
+      213: -4504328170665831972
+    second: sycthe_9
+  - first:
+      213: -7656658776567591411
+    second: sycthe_10
+  - first:
+      213: -759676923923610869
+    second: sycthe_11
+  - first:
+      213: 2628395139614331280
+    second: sycthe_12
+  - first:
+      213: -2666848823366182010
+    second: sycthe_13
+  - first:
+      213: 6745060519572138876
+    second: sycthe_14
+  - first:
+      213: 900508438662086951
+    second: sycthe_15
+  - first:
+      213: 8988884014453388158
+    second: sycthe_16
+  - first:
+      213: 7202982966939657391
+    second: sycthe_17
+  - first:
+      213: 2038944566991928539
+    second: sycthe_18
+  - first:
+      213: -4922635318282854635
+    second: sycthe_19
+  - first:
+      213: -4202114354011689938
+    second: sycthe_20
+  - first:
+      213: -3346850880706413595
+    second: sycthe_21
+  - first:
+      213: -8711462194814475163
+    second: sycthe_22
+  - first:
+      213: -5951282790030272114
+    second: sycthe_23
+  - first:
+      213: -8582932058158570037
+    second: sycthe_24
+  - first:
+      213: 6947398329454530014
+    second: sycthe_25
+  - first:
+      213: 4100782595488407050
+    second: sycthe_26
+  - first:
+      213: 7496864446501981665
+    second: sycthe_27
+  - first:
+      213: 4351883094295125134
+    second: sycthe_28
+  - first:
+      213: -3147562761434260297
+    second: sycthe_29
+  - first:
+      213: 5271233965992962486
+    second: sycthe_30
+  - first:
+      213: -72464124490576953
+    second: sycthe_31
+  - first:
+      213: 324389865638779872
+    second: sycthe_32
+  - first:
+      213: 8371752212126837885
+    second: sycthe_33
+  - first:
+      213: -3550559474533410453
+    second: sycthe_34
+  - first:
+      213: -7660340711354360067
+    second: sycthe_35
+  - first:
+      213: -8144300515171768858
+    second: sycthe_36
+  - first:
+      213: -4951674318462507771
+    second: sycthe_37
+  - first:
+      213: -5265600982015582414
+    second: sycthe_38
+  - first:
+      213: -7358934556041562993
+    second: sycthe_39
+  - first:
+      213: -6226660766960166479
+    second: sycthe_40
+  - first:
+      213: -1433540493709526968
+    second: sycthe_41
+  - first:
+      213: -3154006440609351274
+    second: sycthe_42
+  - first:
+      213: -1708955784945331706
+    second: sycthe_43
+  - first:
+      213: -8497573918291360940
+    second: sycthe_44
+  - first:
+      213: -7468434231047857654
+    second: sycthe_45
+  - first:
+      213: 6012116851901577316
+    second: sycthe_46
+  - first:
+      213: 4409654134455766673
+    second: sycthe_47
+  - first:
+      213: 3634881158538222612
+    second: sycthe_48
+  - first:
+      213: -1645083647791985845
+    second: sycthe_49
+  - first:
+      213: 6754628712499385605
+    second: sycthe_50
+  - first:
+      213: -3309550138333827646
+    second: sycthe_51
+  - first:
+      213: -5116515446305583260
+    second: sycthe_52
+  - first:
+      213: -8261568864073792413
+    second: sycthe_53
+  - first:
+      213: -1205222584684581542
+    second: sycthe_54
+  - first:
+      213: -5751024857238886974
+    second: sycthe_55
+  - first:
+      213: -2220812298646170047
+    second: sycthe_56
+  - first:
+      213: -4512072650357687633
+    second: sycthe_57
+  - first:
+      213: 6176033170667780482
+    second: sycthe_58
+  - first:
+      213: 7525975873806388756
+    second: sycthe_59
+  - first:
+      213: -2440963526519028627
+    second: sycthe_60
+  - first:
+      213: 755386606653373765
+    second: sycthe_61
+  - first:
+      213: -4951968378935099694
+    second: sycthe_62
+  - first:
+      213: -2966214426565312897
+    second: sycthe_63
+  - first:
+      213: 1343861525905531527
+    second: sycthe_64
+  - first:
+      213: -336072144671955664
+    second: sycthe_65
+  - first:
+      213: -7016638045896757821
+    second: sycthe_66
+  - first:
+      213: 1429474589378763021
+    second: sycthe_67
+  - first:
+      213: -1480738476247850696
+    second: sycthe_68
+  - first:
+      213: 7112927096243582831
+    second: sycthe_69
+  - first:
+      213: 3818173826561075422
+    second: sycthe_0
+  - first:
+      213: 4737080791002723246
+    second: sycthe_1
+  - first:
+      213: 6792920003913108335
+    second: sycthe_2
+  - first:
+      213: 4003295922076459965
+    second: sycthe_3
+  - first:
+      213: -5529689383601862960
+    second: sycthe_4
+  - first:
+      213: -751808700054899202
+    second: sycthe_5
+  - first:
+      213: 4659312706087859259
+    second: sycthe_6
+  - first:
+      213: -5117368693823198741
+    second: sycthe_7
+  - first:
+      213: -2273611048642527528
+    second: sycthe_8
+  - first:
+      213: -1000622797695659665
+    second: sycthe_9
+  - first:
+      213: -673187208000827954
+    second: sycthe_10
+  - first:
+      213: -3294027165920417889
+    second: sycthe_11
+  - first:
+      213: 8735296597707629071
+    second: sycthe_12
+  - first:
+      213: 7279371710685067527
+    second: sycthe_13
+  - first:
+      213: 7973886668507861517
+    second: sycthe_14
+  - first:
+      213: -922790680395510954
+    second: sycthe_15
+  - first:
+      213: 7054050408580847112
+    second: sycthe_16
+  - first:
+      213: 341716939689889512
+    second: sycthe_17
+  - first:
+      213: 1317853891127439222
+    second: sycthe_18
+  - first:
+      213: 8553489808588941617
+    second: sycthe_19
+  - first:
+      213: -3497263865785353985
+    second: sycthe_20
+  - first:
+      213: -516092921317407734
+    second: sycthe_21
+  - first:
+      213: -6093986544319002491
+    second: sycthe_22
+  - first:
+      213: -5542481202250337289
+    second: sycthe_23
+  - first:
+      213: 8457163961745272065
+    second: sycthe_24
+  - first:
+      213: -1473416694963217317
+    second: sycthe_25
+  - first:
+      213: -5849823029653994956
+    second: sycthe_26
+  - first:
+      213: -4094093300231886904
+    second: sycthe_27
+  - first:
+      213: -5625707310680665825
+    second: sycthe_28
+  - first:
+      213: 8394128838159699320
+    second: sycthe_29
+  - first:
+      213: -2853980489272962536
+    second: sycthe_30
+  - first:
+      213: -7746813242514996231
+    second: sycthe_31
+  - first:
+      213: -2274733140219472529
+    second: sycthe_32
+  - first:
+      213: -4116009836248660659
+    second: sycthe_33
+  - first:
+      213: -3050735629601821050
+    second: sycthe_34
+  - first:
+      213: 7882719212174912894
+    second: sycthe_35
+  - first:
+      213: -8932372546102454991
+    second: sycthe_36
+  - first:
+      213: 4220113745716053272
+    second: sycthe_37
+  - first:
+      213: 8358724012280081198
+    second: sycthe_38
+  - first:
+      213: -4399660165832299257
+    second: sycthe_39
+  - first:
+      213: -7213342317553443505
+    second: sycthe_40
+  - first:
+      213: 3422496819329959157
+    second: sycthe_41
+  - first:
+      213: -509371168622722392
+    second: sycthe_42
+  - first:
+      213: 7362846043859120310
+    second: sycthe_43
+  - first:
+      213: -4316260614329413813
+    second: sycthe_44
+  - first:
+      213: -6698493274589705199
+    second: sycthe_45
+  - first:
+      213: -1795398360860272151
+    second: sycthe_46
+  - first:
+      213: -3513188391468545070
+    second: sycthe_47
+  - first:
+      213: -1588466659493485997
+    second: sycthe_48
+  - first:
+      213: -4366928110048341958
+    second: sycthe_49
+  - first:
+      213: 200352436414738701
+    second: sycthe_50
+  - first:
+      213: -1653998191481509267
+    second: sycthe_51
+  - first:
+      213: 872917076630747519
+    second: sycthe_52
+  - first:
+      213: 2124334647376277276
+    second: sycthe_53
+  - first:
+      213: 8645472898150927515
+    second: sycthe_54
+  - first:
+      213: -2644326934240219227
+    second: sycthe_55
+  - first:
+      213: -1885588290456895169
+    second: sycthe_56
+  - first:
+      213: 4976325630865348797
+    second: sycthe_57
+  - first:
+      213: 817958256363177723
+    second: sycthe_58
+  - first:
+      213: 6717361147169799537
+    second: sycthe_59
+  - first:
+      213: -5204869771838715974
+    second: sycthe_60
+  - first:
+      213: -1218626076629015969
+    second: sycthe_61
+  - first:
+      213: 1955178957030544961
+    second: sycthe_62
+  - first:
+      213: -1495664933715237239
+    second: sycthe_63
+  - first:
+      213: -5923290123844973431
+    second: sycthe_64
+  - first:
+      213: -8864808350315983047
+    second: sycthe_65
+  - first:
+      213: -6739796167060819096
+    second: sycthe_66
+  - first:
+      213: 599246407851983344
+    second: sycthe_67
+  - first:
+      213: 6991768478471294283
+    second: sycthe_68
+  - first:
+      213: -8368685898298413254
+    second: sycthe_69
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 130
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sycthe_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1800
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed8edde9dd0ecf430800000000000000
+      internalID: 3818173826561075422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycthe_1
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1800
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea33b0c91ed7db140800000000000000
+      internalID: 4737080791002723246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycthe_2
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1800
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6bc2ecc0cc454e50800000000000000
+      internalID: 6792920003913108335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycthe_3
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1800
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db323264e609e8730800000000000000
+      internalID: 4003295922076459965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycthe_4
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1800
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6892c9dc89243b0800000000000000
+      internalID: -5529689383601862960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycthe_5
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1800
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5fd2678f90195f0800000000000000
+      internalID: -751808700054899202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycthe_6
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1800
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34b4d7583439a040800000000000000
+      internalID: 4659312706087859259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycthe_7
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 1800
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9a6f339447bf8b0800000000000000
+      internalID: -5117368693823198741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycthe_8
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 1800
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de32402cc28270e0800000000000000
+      internalID: -2273611048642527528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycthe_9
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 1800
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f615135fdd21d12f0800000000000000
+      internalID: -1000622797695659665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycthe_10
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1800
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd06cf0dcb58a6f0800000000000000
+      internalID: -673187208000827954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycthe_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1500
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97a3debeb34942d0800000000000000
+      internalID: -3294027165920417889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycthe_12
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1500
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02aa0a59f10a3970800000000000000
+      internalID: 8735296597707629071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycthe_13
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1500
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709396bc006850560800000000000000
+      internalID: 7279371710685067527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycthe_14
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1500
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0252a37dafe8ae60800000000000000
+      internalID: 7973886668507861517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycthe_15
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1500
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b0cfce3c69133f0800000000000000
+      internalID: -922790680395510954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycthe_16
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1500
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806192ff87505e160800000000000000
+      internalID: 7054050408580847112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycthe_17
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1500
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee03f30fb50eb400800000000000000
+      internalID: 341716939689889512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycthe_18
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 1500
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f6486b125f94210800000000000000
+      internalID: 1317853891127439222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycthe_19
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 1500
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1392ede99a914b670800000000000000
+      internalID: 8553489808588941617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycthe_20
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 1500
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8fd0a1b09377fc0800000000000000
+      internalID: -3497263865785353985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycthe_21
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1500
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0448c1f83876d8f0800000000000000
+      internalID: -516092921317407734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycthe_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5880bd7768fcd6ba0800000000000000
+      internalID: -6093986544319002491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycthe_23
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1200
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3b69d36b62513b0800000000000000
+      internalID: -5542481202250337289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycthe_24
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1200
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10def03b0d1ed5570800000000000000
+      internalID: 8457163961745272065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycthe_25
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1200
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c569a825f5d8be0800000000000000
+      internalID: -1473416694963217317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycthe_26
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1200
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432039eb2f041dea0800000000000000
+      internalID: -5849823029653994956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycthe_27
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1200
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c72f5ab5dbde27c0800000000000000
+      internalID: -4094093300231886904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycthe_28
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1200
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f119f88d1097de1b0800000000000000
+      internalID: -5625707310680665825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycthe_29
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 1200
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d0f5d44bfed7470800000000000000
+      internalID: 8394128838159699320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycthe_30
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 1200
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8125df4bddf9468d0800000000000000
+      internalID: -2853980489272962536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycthe_31
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 1200
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f30a9a766acd7490800000000000000
+      internalID: -7746813242514996231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycthe_32
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1200
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65d862d2468e60e0800000000000000
+      internalID: -2274733140219472529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycthe_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 900
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45826a8cdef0e6c0800000000000000
+      internalID: -4116009836248660659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycthe_34
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 900
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ea4fdbb1c99a5d0800000000000000
+      internalID: -3050735629601821050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycthe_35
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 900
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d25d9eb5b056d60800000000000000
+      internalID: 7882719212174912894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycthe_36
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 900
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1359c1cbe76d90480800000000000000
+      internalID: -8932372546102454991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycthe_37
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 900
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8150625b71bd09a30800000000000000
+      internalID: 4220113745716053272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycthe_38
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 900
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b6b77e337200470800000000000000
+      internalID: 8358724012280081198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycthe_39
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 900
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d212bb36441f2c0800000000000000
+      internalID: -4399660165832299257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycthe_40
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 900
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d1fee416f05eb90800000000000000
+      internalID: -7213342317553443505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycthe_41
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 900
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4011959b62f7f20800000000000000
+      internalID: 3422496819329959157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycthe_42
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 900
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2ca63fe995ee8f0800000000000000
+      internalID: -509371168622722392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycthe_43
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 900
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0fc1487751e2660800000000000000
+      internalID: 7362846043859120310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycthe_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4fc2ecf6df8914c0800000000000000
+      internalID: -4316260614329413813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycthe_45
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 600
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11cccbd5bdb2a03a0800000000000000
+      internalID: -6698493274589705199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycthe_46
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 600
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e9da9604b67517e0800000000000000
+      internalID: -1795398360860272151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycthe_47
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 600
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dbcd7985c5ae3fc0800000000000000
+      internalID: -3513188391468545070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycthe_48
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 600
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 352e65f3df1a4f9e0800000000000000
+      internalID: -1588466659493485997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycthe_49
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 600
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3096e8550e8563c0800000000000000
+      internalID: -4366928110048341958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycthe_50
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 600
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01726aba7bc7c200800000000000000
+      internalID: 200352436414738701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycthe_51
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 600
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a2b997861db09e0800000000000000
+      internalID: -1653998191481509267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycthe_52
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 600
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79b2fec4793d1c00800000000000000
+      internalID: 872917076630747519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycthe_53
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 600
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1feae84b172b7d10800000000000000
+      internalID: 2124334647376277276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycthe_54
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 600
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c8d819bc3eaf770800000000000000
+      internalID: 8645472898150927515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycthe_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af2d9ed9a67d4bd0800000000000000
+      internalID: -2644326934240219227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycthe_56
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 300
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f314eaaa07b05d5e0800000000000000
+      internalID: -1885588290456895169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycthe_57
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 300
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8966aabc57f0540800000000000000
+      internalID: 4976325630865348797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycthe_58
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 300
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf600af43b8f95b00800000000000000
+      internalID: 817958256363177723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycthe_59
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 300
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17df01d8f5cd83d50800000000000000
+      internalID: 6717361147169799537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycthe_60
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 300
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab78263e48694c7b0800000000000000
+      internalID: -5204869771838715974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycthe_61
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 300
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52ef743a02961fe0800000000000000
+      internalID: -1218626076629015969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycthe_62
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 300
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 146df1607e0322b10800000000000000
+      internalID: 1955178957030544961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycthe_63
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 300
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98625eacaa45e3be0800000000000000
+      internalID: -1495664933715237239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycthe_64
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 300
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c04aae30f3ccda0800000000000000
+      internalID: -5923290123844973431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycthe_65
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 300
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93fcf7de5cfd9f480800000000000000
+      internalID: -8864808350315983047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycthe_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863fcc3581f6772a0800000000000000
+      internalID: -6739796167060819096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycthe_67
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f142f8de63f05800800000000000000
+      internalID: 599246407851983344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycthe_68
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d0e0f1360c70160800000000000000
+      internalID: 6991768478471294283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sycthe_69
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 0
+        width: 360
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f2a13c3847cdb80800000000000000
+      internalID: -8368685898298413254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
