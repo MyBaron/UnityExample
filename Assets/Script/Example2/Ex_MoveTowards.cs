@@ -1,14 +1,11 @@
-using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Ex_SmoothDamp : MonoBehaviour
+public class Ex_MoveTowards : MonoBehaviour
 {
     public Vector3 targetPosition;
     public float speed = 3;
-    public float smoothTime = 0.5f; 
-    Vector3 velocity = Vector3.zero;
     
     private HeroPlayAnim _anim;
     
@@ -18,11 +15,10 @@ public class Ex_SmoothDamp : MonoBehaviour
         _anim = GetComponent<HeroPlayAnim>();
     }
 
-
     // Update is called once per frame
     void Update()
     {
-        transform.position = Vector3.SmoothDamp(transform.position, targetPosition, ref velocity, smoothTime, speed);
+        transform.position = Vector3.MoveTowards(transform.position, targetPosition, speed * Time.deltaTime);
         var dir = targetPosition - targetPosition;
         _anim.PlayWalkAnim(dir);
     }

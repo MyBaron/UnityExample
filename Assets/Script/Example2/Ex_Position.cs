@@ -1,21 +1,23 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
 public class Ex_Position : MonoBehaviour
 {
+
     private HeroPlayAnim _anim;
-    
-    // Start is called before the first frame update
-    void Start()
+    private float speed = 2;
+    private Vector3 dir = Vector3.right;
+
+    private void Start()
     {
         _anim = GetComponent<HeroPlayAnim>();
-        //Application.targetFrameRate = 10;
     }
-    void Update()
+
+    private void Update()
     {
-        var dir = new Vector3(0.01f, 0, 0);
-        transform.position += dir;
+        transform.Translate(dir * (speed * Time.deltaTime));
         _anim.PlayWalkAnim(dir);
     }
 }
