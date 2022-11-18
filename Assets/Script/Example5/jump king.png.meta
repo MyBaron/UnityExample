@@ -1,0 +1,1164 @@
+fileFormatVersion: 2
+guid: 7d7b357649df6d747bbe101b4d913735
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7479383761132611010
+    second: jump king_0
+  - first:
+      213: 7387145926541522002
+    second: jump king_1
+  - first:
+      213: 557721222966377396
+    second: jump king_2
+  - first:
+      213: 5775749541870520903
+    second: jump king_3
+  - first:
+      213: 6516402241840560948
+    second: jump king_4
+  - first:
+      213: 1487743624547698322
+    second: jump king_5
+  - first:
+      213: 8199966286739444053
+    second: jump king_6
+  - first:
+      213: -3154096484558249360
+    second: jump king_7
+  - first:
+      213: 4686669034397136513
+    second: jump king_8
+  - first:
+      213: 448299492252986114
+    second: jump king_9
+  - first:
+      213: 663890139311166300
+    second: jump king_10
+  - first:
+      213: 7574105813578904902
+    second: jump king_11
+  - first:
+      213: -3360594993720444426
+    second: jump king_12
+  - first:
+      213: 7348863010476725474
+    second: jump king_13
+  - first:
+      213: 8729670708847852539
+    second: jump king_14
+  - first:
+      213: 6623302284080333528
+    second: jump king_15
+  - first:
+      213: -8424243777703279487
+    second: jump king_16
+  - first:
+      213: 8626448146676006250
+    second: jump king_17
+  - first:
+      213: -647408345204345295
+    second: jump king_18
+  - first:
+      213: 2262521513395330778
+    second: jump king_19
+  - first:
+      213: 2455766382917416141
+    second: jump king_20
+  - first:
+      213: -491402973051466885
+    second: jump king_21
+  - first:
+      213: -5633117606433738464
+    second: jump king_22
+  - first:
+      213: 3313710018089443102
+    second: jump king_23
+  - first:
+      213: 7925687014137442316
+    second: jump king_24
+  - first:
+      213: -5017679277848032261
+    second: jump king_25
+  - first:
+      213: 324599036036621119
+    second: jump king_26
+  - first:
+      213: 2108661163474804731
+    second: jump king_27
+  - first:
+      213: 5788008318845364233
+    second: jump king_28
+  - first:
+      213: 9221066242938227367
+    second: jump king_29
+  - first:
+      213: -5505215774272587500
+    second: jump king_30
+  - first:
+      213: 2561393768771437724
+    second: jump king_31
+  - first:
+      213: -6184260043036208702
+    second: jump king_32
+  - first:
+      213: -548961704156360994
+    second: jump king_33
+  - first:
+      213: -7477095946287030282
+    second: jump king_34
+  - first:
+      213: 6727529169579907230
+    second: jump king_35
+  - first:
+      213: -5715879459578852199
+    second: jump king_36
+  - first:
+      213: 4411488169750402510
+    second: jump king_37
+  - first:
+      213: -1711448515788848144
+    second: jump king_38
+  - first:
+      213: -8500123326087833302
+    second: jump king_39
+  - first:
+      213: -4345726709824761326
+    second: jump king_40
+  - first:
+      213: -3770264162475880231
+    second: jump king_41
+  - first:
+      213: 4581382187429767011
+    second: jump king_42
+  - first:
+      213: -1431328238670088450
+    second: jump king_43
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jump king_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 256
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a9dd2c814e33890800000000000000
+      internalID: -7479383761132611010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump king_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 256
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2543b77d41a648660800000000000000
+      internalID: 7387145926541522002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump king_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb7b925f7c6db700800000000000000
+      internalID: 557721222966377396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump king_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 252
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a41da6b95972050800000000000000
+      internalID: 5775749541870520903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump king_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 225
+        width: 24
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b37764059ee6a50800000000000000
+      internalID: 6516402241840560948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump king_5
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 257
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2968402b1f685a410800000000000000
+      internalID: 1487743624547698322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump king_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 266
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551984b74e12cc170800000000000000
+      internalID: 8199966286739444053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump king_7
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 248
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072e89a55f56a34d0800000000000000
+      internalID: -3154096484558249360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump king_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 249
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186701fd7a46a0140800000000000000
+      internalID: 4686669034397136513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump king_9
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 248
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b2ab4530ea83600800000000000000
+      internalID: 448299492252986114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump king_10
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 249
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53d683709c963900800000000000000
+      internalID: 663890139311166300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump king_11
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 224
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645779dab11ac1960800000000000000
+      internalID: 7574105813578904902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump king_12
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 224
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9365d88a4cc51d0800000000000000
+      internalID: -3360594993720444426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump king_13
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 224
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4197ad8f76cf560800000000000000
+      internalID: 7348863010476725474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump king_14
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 224
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb32070245062970800000000000000
+      internalID: 8729670708847852539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump king_15
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 224
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d244aae552baeb50800000000000000
+      internalID: 6623302284080333528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump king_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 234
+        width: 32
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18483b0fae2171b80800000000000000
+      internalID: -8424243777703279487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump king_17
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 208
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d33ff62ec47b770800000000000000
+      internalID: 8626448146676006250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump king_18
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 208
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136b8774a81f307f0800000000000000
+      internalID: -647408345204345295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump king_19
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 193
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade9b9e3457166f10800000000000000
+      internalID: 2262521513395330778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump king_20
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 192
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc473299382a41220800000000000000
+      internalID: 2455766382917416141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump king_21
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 193
+        width: 62
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b42bd799f2e29f0800000000000000
+      internalID: -491402973051466885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump king_22
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 192
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021b48ae16523d1b0800000000000000
+      internalID: -5633117606433738464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump king_23
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 193
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1fdfd464b9acfd20800000000000000
+      internalID: 3313710018089443102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump king_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 202
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00b696e852bdfd60800000000000000
+      internalID: 7925687014137442316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump king_25
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 202
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb8707184f9d5ab0800000000000000
+      internalID: -5017679277848032261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump king_26
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 208
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33a56d7a15318400800000000000000
+      internalID: 324599036036621119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump king_27
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 208
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bffd390f728734d10800000000000000
+      internalID: 2108661163474804731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump king_28
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 128
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908a8c956e2235050800000000000000
+      internalID: 5788008318845364233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump king_29
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 128
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aacda484eec7ff70800000000000000
+      internalID: 9221066242938227367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump king_30
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 160
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419fa92db6b8993b0800000000000000
+      internalID: -5505215774272587500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump king_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 170
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c944585df06eb8320800000000000000
+      internalID: 2561393768771437724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump king_32
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 170
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c15f28a1481d2aa0800000000000000
+      internalID: -6184260043036208702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump king_33
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 168
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede87741d32b168f0800000000000000
+      internalID: -548961704156360994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump king_34
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 168
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff5c0a2ad40c3890800000000000000
+      internalID: -7477095946287030282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump king_35
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 168
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9893e0c22cfc5d50800000000000000
+      internalID: 6727529169579907230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump king_36
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 168
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99cc9d06aed1da0b0800000000000000
+      internalID: -5715879459578852199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump king_37
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 128
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec59fc80e11c83d30800000000000000
+      internalID: 4411488169750402510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump king_38
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 64
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3490d74a6bf38e0800000000000000
+      internalID: -1711448515788848144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump king_39
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 64
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29d589dede790a80800000000000000
+      internalID: -8500123326087833302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump king_40
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 64
+        width: 46
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212d7f10590e0b3c0800000000000000
+      internalID: -4345726709824761326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump king_41
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 0
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d05d3e48b45dabc0800000000000000
+      internalID: -3770264162475880231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump king_42
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 0
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367ad0683d6549f30800000000000000
+      internalID: 4581382187429767011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump king_43
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 0
+        width: 46
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef67519ec86e22ce0800000000000000
+      internalID: -1431328238670088450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
