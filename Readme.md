@@ -6,3 +6,5 @@
 * Example2 : [如何优雅地移动物体-8个方法](https://blog.csdn.net/GG_and_DD/article/details/126917358)
 * Example3：[如何优雅地实现任何线性效果？](https://blog.csdn.net/GG_and_DD/article/details/127195067)
 
+* Example4：[检测物体在地面的三种方式](https://blog.csdn.net/GG_and_DD/article/details/127437636)
+* Example5：[牛顿的学问！如何优雅地使用力？](https://blog.csdn.net/GG_and_DD/article/details/127928483)
